@@ -1,1 +1,0 @@
-console.log('desde 1/index')
