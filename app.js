@@ -1,1 +1,1 @@
-console.log('desde app.js')
+console.log('desde app')
